@@ -9,7 +9,7 @@ I build backend systems and low-level infrastructure — the kind of code where 
 - 🔭 Currently working on semantic search infrastructure and network packet analysis
 - 🌱 Preparing for **GATE CSE 2027** alongside campus placements
 - 💼 Open to **Software Engineer / Java Backend Developer** roles
-- 📫 Reach me at: `<gaurav.anil.gaydhane@gmail.com>`
+- 📫 Reach me at: `gaurav.anil.gaydhane@gmail.com`
 
 ---
 
