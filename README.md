@@ -68,13 +68,6 @@ A multi-threaded network traffic analysis engine written in modern C++ with **no
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=GruvDev&show_icons=true&hide_border=true&theme=default" height="160" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GruvDev&layout=compact&hide_border=true&theme=default" height="160" alt="Top languages" />
-
----
-
 ## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
